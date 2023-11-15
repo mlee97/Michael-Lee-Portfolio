@@ -38,6 +38,10 @@ const About = () => {
                         By leading the testing/QA team, as well as actively participating in the front-end implementation, we were able to successfully deliver
                         the app. Feel free to check out some of my other projects on <a target="_blank" href="https://github.com/mlee97">GitHub.</a>
                     </p>
+                    <br/>
+                    <p>
+                        During my studies, I completed two internships both at Matrox in Dorval, Canada.
+                    </p>
                 </div>
                 <div className='image-container'>
                     <div className='content'>

@@ -38,8 +38,10 @@
         }
 
         img {
+            display: inline;
             width: 70px;
-            margin-left: 20px;
+            margin-top: -20px;
+            margin-left: 25px;
             opacity: 0;
             height: auto;
             animation: rotateIn 1s linear both;

@@ -75,3 +75,21 @@
     height: 51px;
     text-decoration: none;
 }
+
+.content a:link {
+    text-decoration: none;
+}
+
+.content a:visited {
+    text-decoration: none;
+}
+
+.content a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.content a:active {
+    text-decoration: underline;
+}
+
